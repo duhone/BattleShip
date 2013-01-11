@@ -1,5 +1,6 @@
 BattleShip
 ==========
+written 1991-1993 using Turbo Pascal 6 for dos.
 
 Battle Ship clone. Od game I wrote in my high school days. 16 bit made for dos code, 
 so dosbox is required. 640x350 16 color EGA graphics.
